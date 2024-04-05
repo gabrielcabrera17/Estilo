@@ -1,0 +1,23 @@
+body{
+    font-family: 'Ubuntu';
+}
+h1{
+    background-color: #080807;
+    color:aqua;
+    padding-left: 12px;
+}
+.my{
+    color:white;
+}
+h2{
+    background-color: #AA50AD ;
+    color: white;
+    text-align: center;
+}
+h3{
+    background-color: #96DCEE;
+    color: #2666D7;
+    text-align: right;
+    padding-right:10px ;
+    text-decoration:underline;
+}
